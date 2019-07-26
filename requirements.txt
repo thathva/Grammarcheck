@@ -1,7 +1,7 @@
 Flask
 Flask-RESTful
 Flask-JWT
-sklearn
+gingerit
 uwsgi
 pandas
 numpy
